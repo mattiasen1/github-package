@@ -1,4 +1,5 @@
 {
   "name": "@mattiasen1/github-package",
-  "repository":  "https://github.com/mattiasen1/github-package.git"
+  "repository":  "https://github.com/mattiasen1/github-package.git",
+  "version": "0.0.1"
 }
