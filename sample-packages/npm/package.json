@@ -1,3 +1,4 @@
 {
-  "your": "json config here"
+  "name": "@mattiasen1/github-package"
+  "repository":  "https://github.com/mattiasen1/github-package.git"
 }
